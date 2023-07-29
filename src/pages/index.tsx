@@ -1,9 +1,9 @@
-import Layout from "@components/Templates/Layout"
+import DashboardPage from "@components/Templates/DashboardPage"
 
 export default function Home() {
   return (
     <>
-      خانه
+      <DashboardPage />
     </>
   )
 }

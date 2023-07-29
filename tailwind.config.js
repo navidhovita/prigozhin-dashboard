@@ -10,7 +10,12 @@ module.exports = {
       'light-primary': "",
       'light-secondary': "",
       'dark-primary': "#141a1f",
-      'dark-secondary': "#202934"
+      'dark-secondary': "#202934",
+
+      'black': "#1d2328",
+      'white': "#ffffff",
+      'ultraLightBlack': "rgba(29, 35, 40, 0.3)"
+
     }
   },
   plugins: [],
